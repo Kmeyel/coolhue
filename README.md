@@ -4,6 +4,8 @@ Coolest handpicked Gradient Hues and Swatches for your next super ⚡ amazing st
  
 CoolHue gradients palette is **rendered by JSON** which makes it very easy to make a subtle update anytime.
 
+####这是一个可以配色的前端程序，我 拉了提个玩玩，最新版请前往原作者地址 [》》](https://github.com/webkul/coolhue)
+
 # Installation
 You can create your very own personalized collection of Gradient Palette with CoolHue - 
 You should have [`bower`](https://bower.io/#install-bower) package manager installed on your machine to proceed further.
